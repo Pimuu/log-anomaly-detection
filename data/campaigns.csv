@@ -1,0 +1,93 @@
+attack_id,attack_type,target,src_ip,day,n_events
+0,brute_force,user013,210.56.228.87,34,148
+1,brute_force,user121,205.105.117.134,26,95
+2,brute_force,user004,147.238.184.183,14,69
+3,brute_force,user009,90.74.99.80,6,103
+4,brute_force,user007,52.103.237.233,4,50
+5,brute_force,user123,213.123.8.192,6,77
+6,brute_force,user096,181.250.99.159,7,32
+7,brute_force,user060,48.53.93.65,8,118
+8,brute_force,user166,73.73.101.229,19,35
+9,brute_force,user092,93.228.209.173,32,123
+10,brute_force,user029,11.148.179.155,5,50
+11,brute_force,user144,87.158.250.79,19,77
+12,brute_force,user093,57.76.149.202,29,124
+13,brute_force,user053,216.97.149.232,33,97
+14,password_spray,55 accounts,168.227.109.127,37,82
+15,password_spray,37 accounts,160.88.9.50,10,52
+16,password_spray,43 accounts,12.66.185.175,34,64
+17,password_spray,25 accounts,104.32.178.206,27,41
+18,password_spray,34 accounts,151.64.21.36,18,50
+19,password_spray,65 accounts,182.90.45.73,1,101
+20,password_spray,42 accounts,170.85.69.183,34,64
+21,password_spray,25 accounts,92.62.236.254,5,40
+22,password_spray,30 accounts,221.251.136.127,27,40
+23,password_spray,60 accounts,158.73.179.93,20,84
+24,password_spray,65 accounts,31.49.66.94,0,90
+25,password_spray,43 accounts,223.92.164.72,31,68
+26,odd_hour_login,user006,206.140.213.22,8,14
+27,odd_hour_login,user006,198.51.100.35,3,19
+28,odd_hour_login,user135,198.51.100.34,38,20
+29,odd_hour_login,user122,183.69.27.127,13,10
+30,odd_hour_login,user166,198.51.100.31,11,23
+31,odd_hour_login,user087,198.51.100.31,29,31
+32,odd_hour_login,user021,185.126.8.166,9,16
+33,odd_hour_login,user021,198.51.100.29,12,27
+34,odd_hour_login,user100,198.51.100.24,37,12
+35,odd_hour_login,user075,196.104.136.5,31,13
+36,odd_hour_login,user022,221.238.156.236,29,26
+37,odd_hour_login,user168,78.0.28.164,5,31
+38,odd_hour_login,user042,195.218.220.1,26,29
+39,odd_hour_login,user004,198.51.100.22,38,29
+40,odd_hour_login,user143,198.51.100.27,27,12
+41,odd_hour_login,user063,12.48.114.189,4,14
+42,odd_hour_login,user030,190.59.78.138,9,15
+43,odd_hour_login,user022,221.238.156.236,7,22
+44,odd_hour_login,user049,198.51.100.39,38,16
+45,odd_hour_login,user044,198.51.100.27,28,20
+46,odd_hour_login,user017,198.51.100.23,11,17
+47,odd_hour_login,user156,198.51.100.29,40,15
+48,odd_hour_login,user078,198.51.100.38,25,17
+49,odd_hour_login,user115,198.51.100.31,27,25
+50,rare_ip_takeover,user067,63.22.144.143,4,15
+51,rare_ip_takeover,user008,175.106.143.219,8,31
+52,rare_ip_takeover,user035,65.93.115.121,20,25
+53,rare_ip_takeover,user077,78.229.12.139,21,29
+54,rare_ip_takeover,user171,92.65.1.4,19,39
+55,rare_ip_takeover,user016,181.85.6.171,4,11
+56,rare_ip_takeover,user083,181.179.53.190,36,25
+57,rare_ip_takeover,user140,82.114.20.143,30,24
+58,rare_ip_takeover,user082,18.24.140.77,31,42
+59,rare_ip_takeover,user073,138.90.159.33,26,13
+60,rare_ip_takeover,user085,73.140.117.195,11,22
+61,rare_ip_takeover,user035,40.202.170.64,4,17
+62,rare_ip_takeover,user164,16.9.174.159,17,41
+63,rare_ip_takeover,user004,102.197.70.54,6,25
+64,rare_ip_takeover,user044,83.157.1.153,31,26
+65,rare_ip_takeover,user115,199.19.89.146,28,17
+66,rare_ip_takeover,user100,51.201.242.2,23,29
+67,rare_ip_takeover,user026,185.86.77.112,2,40
+68,rare_ip_takeover,user070,87.55.42.14,12,16
+69,rare_ip_takeover,user140,122.254.238.202,24,28
+70,rare_ip_takeover,user164,186.194.216.61,31,20
+71,rare_ip_takeover,user122,37.20.155.5,33,18
+72,rare_ip_takeover,user021,103.249.29.252,32,29
+73,rare_ip_takeover,user042,223.160.181.184,37,41
+74,privilege_escalation,user065,154.18.206.81,34,27
+75,privilege_escalation,user159,198.51.100.29,10,41
+76,privilege_escalation,user157,198.51.100.39,40,11
+77,privilege_escalation,user139,198.51.100.38,20,16
+78,privilege_escalation,user006,206.140.213.22,39,25
+79,privilege_escalation,user105,198.51.100.28,19,27
+80,privilege_escalation,user012,175.200.216.49,12,25
+81,privilege_escalation,user080,25.137.0.143,37,23
+82,privilege_escalation,user092,163.116.102.30,40,24
+83,privilege_escalation,user170,198.51.100.20,0,41
+84,privilege_escalation,user135,105.208.163.118,24,13
+85,privilege_escalation,user134,51.132.233.44,11,25
+86,privilege_escalation,user165,198.51.100.25,36,10
+87,privilege_escalation,user125,147.90.107.90,8,22
+88,privilege_escalation,user115,135.62.58.154,13,11
+89,privilege_escalation,user141,34.83.217.175,28,16
+90,privilege_escalation,user095,13.146.91.20,11,19
+91,privilege_escalation,user178,198.51.100.21,34,28
